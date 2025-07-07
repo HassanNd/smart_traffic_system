@@ -1,0 +1,8 @@
+opencv-python
+ultralytics
+python-dotenv
+numpy
+Pillow
+twilio
+easyocr
+deep-sort-realtime

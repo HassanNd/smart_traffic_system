@@ -1,0 +1,9 @@
+venv/
+.env
+__pycache__/
+*.pyc
+*.pt
+*weights
+*.h5
+*.mp4
+images_videos/
